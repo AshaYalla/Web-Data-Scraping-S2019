@@ -25,7 +25,7 @@ Students will:
 ## Class outline
 
 * **Week 1**: Introduction to Jupyter, browser console, structured data, ethical considerations
-* **Week 2**: Scraping HTML with `HTTP requests` and scraping libraries such as `BeautifulSoup` or `Scarpy`,
+* **Week 2**: Scraping HTML with `HTTP requests` and scraping libraries such as `BeautifulSoup` or `Scarpy`
 * **Week 3**: Scraping an API with `requests` and `json`, Wikipedia and Reddit
 * **Week 4**: Scraping web data with Selenium, ethics of screen-scraping
 * **Week 5**: Scraping Twitter's API
